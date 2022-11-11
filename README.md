@@ -1,6 +1,6 @@
-[CV] (https://github.com/laurenbrabbin/CV)
-[LinkedIn] (http://www.linkedin.com/in/laurenbrabbin)
-[Codewars] (https://www.codewars.com/users/Laurenbrabbin)
+[CV] (https://github.com/laurenbrabbin/CV/)
+[LinkedIn] (http://www.linkedin.com/in/laurenbrabbin/)
+[Codewars] (https://www.codewars.com/users/Laurenbrabbin/)
 
 - 💕 Hi, I’m Lauren
 - 🌱 I’m currently completing a 16 week software engineering bootcamp with Makers Academy as part of my traineeship at the BCB Group
