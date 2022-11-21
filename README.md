@@ -2,7 +2,7 @@
 - 🌱 I’m currently completing a 16 week software engineering bootcamp with Makers Academy as part of my traineeship at the BCB Group
 - 🐥 Here is my [Codewars](https://www.codewars.com/users/Laurenbrabbin/) profile
 
-I have worked with the following tech: 
+I have worked with the following tech🌸: 
 -  Languages: TypeScript, JavaScript and Ruby
 -  Frontend Tech: Angular, React, HTML, CSS
 -  Backend Tech:  NestJs, Express, Node, Sinatra
