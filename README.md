@@ -8,7 +8,7 @@ I have worked with the following tech🌸:
 -  Backend Tech:  NestJs, Express, Node, Sinatra
 -  Databases: MongoDB, ActiveRecord, SQL, PostgreSQL
 -  Testing: Jest, RSpec
--  Stacks: MERN (MongoDB, Expressm React, Node) and TAN (Typescript, Angular and NestJS)
+-  Stacks: MERN (MongoDB, Express, React and Node) and TAN (Typescript, Angular and NestJS)
 
 <!---
 laurenbrabbin/laurenbrabbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
