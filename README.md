@@ -1,4 +1,4 @@
-- 💕 find more about me on my [LinkedIn](http://www.linkedin.com/in/laurenbrabbin) or my [CV](https://github.com/laurenbrabbin/CV)
+- 💕 find out more about me on my [LinkedIn](http://www.linkedin.com/in/laurenbrabbin) or my [CV](https://github.com/laurenbrabbin/CV)
 - 🌱 I’m currently completing a 16 week software engineering bootcamp with Makers Academy as part of my traineeship at the BCB Group
 - 🐥 Here is my [Codewars](https://www.codewars.com/users/Laurenbrabbin/) profile
 
